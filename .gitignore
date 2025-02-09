@@ -1,0 +1,13 @@
+# Ignore node_modules in frontend-react
+/frontend-react/node_modules
+/frontend-react/build
+/frontend-react/.env
+
+# Ignore virtual environment in backend-flask
+/backend-flask/venv
+/backend-flask/__pycache__
+/backend-flask/.env
+
+# General ignores
+*.log
+.DS_Store
